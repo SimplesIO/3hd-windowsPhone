@@ -1,0 +1,18 @@
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\3 Hour Diet.dll
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\3 Hour Diet.pdb
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\AppManifest.xaml
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\Bin\Debug\_3_Hour_Diet_Debug_AnyCPU.xap
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\obj\Debug\App.g.cs
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\obj\Debug\MainPage.g.cs
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\obj\Debug\3 Hour Diet.g.resources
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\obj\Debug\_3_Hour_Diet.Resources.AppResources.resources
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\obj\Debug\3 Hour Diet.csproj.GenerateResource.Cache
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\obj\Debug\3 Hour Diet.dll
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\obj\Debug\3 Hour Diet.pdb
+c:\users\rafael\documents\visual studio 2012\Projects\3 Hour Diet\3 Hour Diet\obj\Debug\XapCacheFile.xml
